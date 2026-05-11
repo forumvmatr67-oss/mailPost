@@ -1,0 +1,16 @@
+# Защита данных пользователей и сообщений
+users.json
+messages.json
+msg_counter.json
+
+# Временные файлы Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Настройки IDE
+.vscode/
+.idea/
+
+# Логи и прочее
+*.log
