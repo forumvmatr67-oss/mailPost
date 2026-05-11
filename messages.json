@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "from": "Steve",
+    "to": "Alex",
+    "subject": "Привет",
+    "body": "Ищешь алмазы?",
+    "timestamp": "2025-05-11T14:25:10.123456",
+    "is_read": false
+  }
+]
